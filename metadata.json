@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAnalyze — Automated Resume & Job Matcher",
+  "description": "Automated resume analysis, ATS optimization, and career readiness platform powered by n8n workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
